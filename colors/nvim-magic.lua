@@ -1,1 +1,1 @@
-require("colors")
+require("colors-scheme").load()
